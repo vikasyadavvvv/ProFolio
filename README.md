@@ -32,7 +32,7 @@ A React application that lets users create professional portfolios by selecting 
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/profolio.git
+git clone https://github.com/vikasyadavvvv/ProFolio.git
 cd profolio
 npm install
 npm run dev
